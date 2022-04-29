@@ -1,0 +1,19 @@
+body{
+    background-color: brown;
+}
+
+.gallery> img{
+    border-radius: 30%;
+    width:30%;
+    border:5px,solid,black
+}
+
+.gallery > img:hover{
+    transform: scale(1,1);
+}
+
+.gallery > p:hover{
+   background-color: brown;
+   color: azure ;
+   width: 40%;
+}
